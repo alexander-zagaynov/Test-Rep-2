@@ -25,4 +25,4 @@ git remote add source https://github.com/alexander-zagaynov/Test-Rep-1.git
 проверяем: git remote -v 
 
 Создали новую ветку FIRST
-line conflict
+добавили запись line conflict
