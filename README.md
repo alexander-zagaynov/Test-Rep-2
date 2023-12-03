@@ -23,3 +23,6 @@ git push -u origin main
 3 Связываем 2 удаленных репозитория
 git remote add source https://github.com/alexander-zagaynov/Test-Rep-1.git
 проверяем: git remote -v 
+
+Создали новую ветку FIRST
+line conflict
