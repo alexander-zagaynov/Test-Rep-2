@@ -15,6 +15,8 @@ git clone https://github.com/alexander-zagaynov/Test-Rep-1.git
 подключаемся к удаленному репозиторию
 git remote add origin https://github.com/alexander-zagaynov/Test-Rep-2.git
 
+Добавляем изменения для проверки создания в каждом репозитории свои изменения
+
 отправляем в удаленный репозиторий
 git push -u origin main
 
